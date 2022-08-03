@@ -29,9 +29,11 @@
 ![pasta3](https://user-images.githubusercontent.com/105509750/182661821-1a7addbd-6fef-4e6c-9a7b-145f3427fd3e.png)
 
 <hr>
-Akademi kapsamında hazırlamış olduğum medium yazılarıma aşağıdaki linkten ulaşabilirsiniz<br>
+Akademi kapsamında hazırlamış olduğum medium yazılarıma aşağıdaki linkten ulaşabilirsiniz.<br>
 https://medium.com/@nrcntpkra
-
+<br>
+Aynı zamanda aşağıdaki linkten Linkedln sayfama da göz atabilirsiniz.<br>
+https://www.linkedin.com/in/nurcantopkara
 
 
 
