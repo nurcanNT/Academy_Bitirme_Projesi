@@ -1,4 +1,4 @@
-# Woman in Tech Academy Bitirme Proje
+# Woman in Tech Academy Bitirme Projesi
 
 
 ![nba png](https://user-images.githubusercontent.com/105509750/182657710-eed5eeb2-6619-4baf-87c1-cf1a46a91a15.png)
@@ -13,6 +13,8 @@
 * Matplotlib
 
 ## Elde Edilen Sonuçlar, Grafikler:
+**Daha fazlası için .ipynb uzantılı dosyadan ulaşabilirsiniz.**<br>
+
 ![image](https://user-images.githubusercontent.com/105509750/182648674-719fba2b-0c4e-462f-b93b-1c6a4d6629f9.png)
 <hr>
 
