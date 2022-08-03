@@ -15,19 +15,20 @@
 ## Elde Edilen Sonuçlar, Grafikler:
 ![image](https://user-images.githubusercontent.com/105509750/182648674-719fba2b-0c4e-462f-b93b-1c6a4d6629f9.png)
 <hr>
-<img src="![image](https://user-images.githubusercontent.com/105509750/182648872-64b97060-f441-4363-8fb7-b455d2cc284f.png)"/>
+
+![pasta](https://user-images.githubusercontent.com/105509750/182659683-28d2aa73-088f-4a45-be16-a7bba46cb640.png)
+
 <hr>
-![image](https://user-images.githubusercontent.com/105509750/182649132-9a5902ee-8e16-420d-978d-f35247939684.png)
+
+![pasta2](https://user-images.githubusercontent.com/105509750/182661251-87d1628e-5748-4bf2-a9d9-b87ac1c4b11a.png)
+
 <hr>
-![image](https://user-images.githubusercontent.com/105509750/182649247-3680ce0c-c355-4bfd-9e80-8c049022f4ab.png)
+
+![pasta3](https://user-images.githubusercontent.com/105509750/182661821-1a7addbd-6fef-4e6c-9a7b-145f3427fd3e.png)
+
 <hr>
-![image](https://user-images.githubusercontent.com/105509750/182649467-550d11ee-1f79-4c84-805d-2f1914e5515a.png)
-<hr>
-![image](https://user-images.githubusercontent.com/105509750/182649763-9872f690-a671-4a12-9318-6bbcabb03120.png)
-<hr>
-![image](https://user-images.githubusercontent.com/105509750/182650444-0d3ce2a2-0c2f-4564-a344-29e610a8619e.png)
-<hr>
-![image](https://user-images.githubusercontent.com/105509750/182650583-67c1136c-dd10-426b-9f0c-ca460a9b41be.png)
+
+
 
 
 
