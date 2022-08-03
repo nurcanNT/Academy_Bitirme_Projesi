@@ -30,10 +30,10 @@
 
 <hr>
 Akademi kapsamında hazırlamış olduğum medium yazılarıma aşağıdaki linkten ulaşabilirsiniz.<br>
-https://medium.com/@nrcntpkra
-<br>
+<a href="https://medium.com/@nrcntpkra">MEDİUM</a> <br>
+
 Aynı zamanda aşağıdaki linkten Linkedln sayfama da göz atabilirsiniz.<br>
-https://www.linkedin.com/in/nurcantopkara
+<a href="https://www.linkedin.com/in/nurcantopkara">LİNKEDİN</a> 
 
 
 
