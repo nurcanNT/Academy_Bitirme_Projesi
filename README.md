@@ -1,6 +1,7 @@
-# Woman in Tech Academy Bitirme Projesi
+# Woman in Tech Academy Bitirme Proje
 
-<img src="![20220803_182046_0000](https://user-images.githubusercontent.com/105509750/182646290-d726ad0b-359f-402c-9754-5e9af536fbe0.png)"  />
+
+![nba png](https://user-images.githubusercontent.com/105509750/182657710-eed5eeb2-6619-4baf-87c1-cf1a46a91a15.png)
 
 
 > **SistersLab'in Toplum Gönüllüleri Vakfı (link:https://www.tog.org.tr/en/) tarafından desteklenen Women in Tech Academy proje katılımcılarından biriyim. Proje, 20–28 yaş aralığındaki 25 kadını 3 ay boyunca yazılım eğitimleriyle güçlendirerek sektörde iş gücüne katılımını hedefliyor. Projeyle ilgili daha fazla bilgiye bu linkten ulaşabilirsiniz: https://sisterslab.co/women-in-tech-academy/"**<br>
@@ -14,7 +15,7 @@
 ## Elde Edilen Sonuçlar, Grafikler:
 ![image](https://user-images.githubusercontent.com/105509750/182648674-719fba2b-0c4e-462f-b93b-1c6a4d6629f9.png)
 <hr>
-![image](https://user-images.githubusercontent.com/105509750/182648872-64b97060-f441-4363-8fb7-b455d2cc284f.png)
+<img src="![image](https://user-images.githubusercontent.com/105509750/182648872-64b97060-f441-4363-8fb7-b455d2cc284f.png)"/>
 <hr>
 ![image](https://user-images.githubusercontent.com/105509750/182649132-9a5902ee-8e16-420d-978d-f35247939684.png)
 <hr>
